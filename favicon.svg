@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="7" fill="#0a0a0a"/>
+  <!-- Simplified crisp wireframe mark for small favicon sizes -->
+  <rect x="5" y="5" width="22" height="22" rx="4" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <line x1="5" y1="11" x2="27" y2="11" stroke="#ffffff" stroke-width="1.5"/>
+  <circle cx="8.5" cy="8" r="0.9" fill="#ffffff"/>
+  <circle cx="11.5" cy="8" r="0.9" fill="#ffffff"/>
+  <!-- Simplified modular 'W' building blocks -->
+  <rect x="7.5" y="14" width="3.5" height="10" rx="1" fill="#ffffff"/>
+  <rect x="13.5" y="18" width="5" height="6" rx="1" fill="#ffffff"/>
+  <rect x="21" y="14" width="3.5" height="10" rx="1" fill="#ffffff"/>
+  <rect x="14.25" y="14" width="3.5" height="2.5" rx="0.5" fill="#ffffff"/>
+</svg>

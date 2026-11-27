@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://websitebouwer.online/sitemap.xml
